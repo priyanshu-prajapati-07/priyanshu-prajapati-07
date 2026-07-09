@@ -1,7 +1,6 @@
 # 💫 Hi 👋, I'm Priyanshu Prajapati
 **A passionate Web Developer || DevOps Engineer**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** website
 - 🌱 **I’m currently learning:** React js
